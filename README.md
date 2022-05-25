@@ -1,5 +1,5 @@
 # Twitterio
-__________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
 First project on FastAPI
 The usual project for beginners, has several functionalities such as: creating a user, authorization and creating a post through authorization.
 
@@ -10,4 +10,4 @@ The database runs on a docker-compose, to create it you need to download docker,
     "docker-compose -f docker-compose.dev.yaml up"
 After all these steps, you can run the project and see its functionality at: localhost:port(standart port 8000)/docs
 
-__________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
