@@ -1,6 +1,8 @@
 # Twitterio
 _________________________________________________________________________________________________________________________________________________________________________
+
 First project on FastAPI
+
 The usual project for beginners, has several functionalities such as: creating a user, authorization and creating a post through authorization.
 
 All repositories that are needed are described in 'requirements.txt'
